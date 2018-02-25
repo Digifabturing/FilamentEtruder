@@ -1,6 +1,6 @@
 # FilamentExtruder
 
-<img src="https://github.com/Digifabturing/FilamentExtruder/extr01.jpg?raw=true" width="100%"/>
+<img src="/FilamentExtruder/extr01.jpg?raw=true" width="100%"/>
 
 ### Introduction:
 
