@@ -20,6 +20,9 @@ printing toolpath in a simple way. The definition was created to:
   surrounding objects (basically the work area plane)
 - control a clay extruder and simulate its material extrusion path and deposition
 
+<img src="https://github.com/Digifabturing/FilamentExtruder/blob/master/extr03.jpg" width="100%"/>
+<img src="https://github.com/Digifabturing/FilamentExtruder/blob/master/extr00.jpg" width="100%"/>
+
 
 A project of [digifabTuring](http://digifabturing.tumblr.com/)
 Developed by:
