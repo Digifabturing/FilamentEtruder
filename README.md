@@ -1,5 +1,7 @@
 # FilamentExtruder
 
+<img src="https://github.com/Digifabturing/FilamentExtruder/extr01.jpg?raw=true" width="100%"/>
+
 ### Introduction:
 
 The Claystruder project is part of the digifabTuring research, that are a research
